@@ -22,3 +22,15 @@ C:\Users\user\Documents\C#\Duonnect-Server\HyperChat\obj\Debug\Server.csproj.Cor
 C:\Users\user\Documents\C#\Duonnect-Server\HyperChat\obj\Debug\Server.csproj.CopyComplete
 C:\Users\user\Documents\C#\Duonnect-Server\HyperChat\obj\Debug\HyperChat.exe
 C:\Users\user\Documents\C#\Duonnect-Server\HyperChat\obj\Debug\HyperChat.pdb
+C:\Users\Vlad Gryaznov\Documents\Duonnect\HyperChat\bin\Debug\HyperChat.exe.config
+C:\Users\Vlad Gryaznov\Documents\Duonnect\HyperChat\bin\Debug\HyperChat.exe
+C:\Users\Vlad Gryaznov\Documents\Duonnect\HyperChat\bin\Debug\HyperChat.pdb
+C:\Users\Vlad Gryaznov\Documents\Duonnect\HyperChat\bin\Debug\SimpleTCP.dll
+C:\Users\Vlad Gryaznov\Documents\Duonnect\HyperChat\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Vlad Gryaznov\Documents\Duonnect\HyperChat\obj\Debug\HyperChat.ServerForm.resources
+C:\Users\Vlad Gryaznov\Documents\Duonnect\HyperChat\obj\Debug\HyperChat.Properties.Resources.resources
+C:\Users\Vlad Gryaznov\Documents\Duonnect\HyperChat\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Vlad Gryaznov\Documents\Duonnect\HyperChat\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Vlad Gryaznov\Documents\Duonnect\HyperChat\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Vlad Gryaznov\Documents\Duonnect\HyperChat\obj\Debug\HyperChat.exe
+C:\Users\Vlad Gryaznov\Documents\Duonnect\HyperChat\obj\Debug\HyperChat.pdb
